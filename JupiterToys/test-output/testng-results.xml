@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="185168" started-at="2022-11-27T11:59:48Z" finished-at="2022-11-27T12:02:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="185168" started-at="2022-11-27T11:59:48Z" finished-at="2022-11-27T12:02:54Z">
+      <class name="com.jupitertoys.tests.ContactPagetests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="7742" started-at="2022-11-27T11:59:48Z" finished-at="2022-11-27T11:59:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyErrorMessages()[pri:1, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="verifyErrorMessages" duration-ms="3210" started-at="2022-11-27T11:59:56Z" description="Verifying the error messages" finished-at="2022-11-27T11:59:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMessages -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="4808" started-at="2022-11-27T11:59:59Z" finished-at="2022-11-27T12:00:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="submitForm()[pri:2, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="submitForm" duration-ms="12188" started-at="2022-11-27T12:00:04Z" description="Verify success message on filing form" finished-at="2022-11-27T12:00:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="28774" started-at="2022-11-27T12:00:16Z" finished-at="2022-11-27T12:00:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="submitForm()[pri:2, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="submitForm" duration-ms="12135" started-at="2022-11-27T12:00:45Z" description="Verify success message on filing form" finished-at="2022-11-27T12:00:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="20030" started-at="2022-11-27T12:00:57Z" finished-at="2022-11-27T12:01:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="submitForm()[pri:2, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="submitForm" duration-ms="12762" started-at="2022-11-27T12:01:17Z" description="Verify success message on filing form" finished-at="2022-11-27T12:01:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="11430" started-at="2022-11-27T12:01:30Z" finished-at="2022-11-27T12:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="submitForm()[pri:2, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="submitForm" duration-ms="13518" started-at="2022-11-27T12:01:42Z" description="Verify success message on filing form" finished-at="2022-11-27T12:01:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="setup" is-config="true" duration-ms="10333" started-at="2022-11-27T12:01:55Z" finished-at="2022-11-27T12:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="submitForm()[pri:2, instance:com.jupitertoys.tests.ContactPagetests@2353b3e6]" name="submitForm" duration-ms="14408" started-at="2022-11-27T12:02:05Z" description="Verify success message on filing form" finished-at="2022-11-27T12:02:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitForm -->
+      </class> <!-- com.jupitertoys.tests.ContactPagetests -->
+      <class name="com.jupitertoys.tests.ShoppingTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.jupitertoys.tests.ShoppingTests@631330c]" name="setup" is-config="true" duration-ms="8409" started-at="2022-11-27T12:02:20Z" finished-at="2022-11-27T12:02:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyTotalOfProducts()[pri:3, instance:com.jupitertoys.tests.ShoppingTests@631330c]" name="verifyTotalOfProducts" duration-ms="25357" started-at="2022-11-27T12:02:28Z" finished-at="2022-11-27T12:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalOfProducts -->
+      </class> <!-- com.jupitertoys.tests.ShoppingTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
